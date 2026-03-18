@@ -24,7 +24,7 @@ bcrypt
 
 1. Clone repository
 
-git clone https://github.com/username/email-verification-api.git
+git clone https://github.com/gurubodke/email-verification-api.git
 
 2. Install dependencies
 
